@@ -1,5 +1,5 @@
 //2. Maior Palavra
-//Peça uma frase e crie uma função que retorna a maior palavra da frase usando
+//Peça para o usuario digitar uma frase, e retorne a ele a maior palavra, utilizando
 //split() e reduce().
 const maiorPalavra = frase => 
     frase
